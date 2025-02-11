@@ -7,7 +7,7 @@ Run this command to download and extract the model:
 
 
 
-# MCQ Generation System
+MCQ Generation System
 
 ## Overview
 This project is an **MCQ (Multiple-Choice Question) Generation System** built using a **fine-tuned T5 model** on the **SQuAD dataset**. The model generates questions based on a given context and an answer, ensuring high relevance and accuracy.
